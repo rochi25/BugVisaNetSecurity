@@ -24,12 +24,12 @@ If the message say that de password is incorrect, it´s like say, Hey!, hackeen 
 <p>  
 <b>Actual Result:</b> The alert reveals that the wrong data is the password..<br>
 <p>  
-<b>Info. adicional:</b> Firefox Versión 94.0.2 (64-bit). Windows 7 Professional.<br>
+<b>Aditional info.:</b> Firefox Versión 94.0.2 (64-bit). Windows 7 Professional.<br>
 <p>  
-<b>Severidad:</b> Medium<br>
-<b>Prioridad:</b> Critic <br>
+<b>Severity:</b> Medium<br>
+<b>Priority:</b> Critic <br>
 
 
-Here is the evidence:
+The evidence:
 
 ![image](https://user-images.githubusercontent.com/88468127/144684621-a0b5ae0f-46ef-46dd-a097-6b5a8764bde7.png)
